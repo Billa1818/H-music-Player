@@ -9,10 +9,30 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native-community/slider": "^4.5.0",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@react-navigation/stack": "^6.3.20",
+    "buffer": "^6.0.3",
     "expo": "~54.0.33",
+    "expo-av": "~14.0.5",
+    "expo-media-library": "~15.9.0",
     "expo-status-bar": "~3.0.9",
+    "jsmediatags": "^3.9.7",
+    "music-metadata-browser": "^2.5.11",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "^2.14.4",
+    "react-native-get-music-files": "^2.2.4",
+    "react-native-get-random-values": "^2.0.0",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0",
+    "react-native-url-polyfill": "^3.0.0",
+    "react-native-vector-icons": "^10.0.3",
+    "zustand": "^4.4.7"
   },
   "private": true
 }
